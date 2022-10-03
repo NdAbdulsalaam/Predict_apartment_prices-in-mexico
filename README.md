@@ -10,5 +10,5 @@ In this notebook, I developed a model aimed at predicting aparment price in Mexi
 - Ridge
    
 ## Acknowledgment
-- [World Quant University](https://www.wqu.edu/)
+- [WorldQuant University](https://www.wqu.edu/)
 
