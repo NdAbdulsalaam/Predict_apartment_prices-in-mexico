@@ -13,4 +13,4 @@ In this notebook, I developed a model aimed at predicting aparment price in Mexi
 - [WorldQuant University](https://www.wqu.edu/)
 
 ## Access on
-[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/weratedogs-twitter-analysis)
+[![Kaggle Badge](https://img.shields.io/badge/-Kaggle-0e76a8?style=flat&labelColor=0e76a8&logo=dev.to&logoColor=white)](https://www.kaggle.com/code/nurudeenabdulsalaam/predicting-apartment-prices-in-mexico-city)
